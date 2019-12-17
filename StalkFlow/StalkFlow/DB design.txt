@@ -1,0 +1,13 @@
+user_table
+--------------------
+user_id (int, primary_key)
+avatar (file)
+emailid varchar(100)
+about varchar(500)
+question_id
+answer_id
+
+<table for questions and answers> 
+question_id --> answers --> answers have ID--->
+answer_id
+
